@@ -14,3 +14,7 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 3. [1069 - Repetitions](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1069.cpp) | [Problem Site](https://cses.fi/problemset/task/1069/)
 
 4. [1094 - Increasing Array](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1094.cpp) | [Problem Site](https://cses.fi/problemset/task/1094/)
+
+5. [1070 - Permutations](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1070.cpp) | [Problem Site](https://cses.fi/problemset/task/1070/)
+
+6. [1754 - Coin Piles](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1754.cpp) | [Problem Site](https://cses.fi/problemset/task/1754/)

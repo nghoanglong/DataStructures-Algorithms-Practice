@@ -18,3 +18,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 5. [1070 - Permutations](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1070.cpp) | [Problem Site](https://cses.fi/problemset/task/1070/)
 
 6. [1754 - Coin Piles](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1754.cpp) | [Problem Site](https://cses.fi/problemset/task/1754/)
+
+7. [1755 - Palindrome Reorder](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1755.cpp) | [Problem Site](https://cses.fi/problemset/task/1755/)

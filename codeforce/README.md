@@ -1,5 +1,5 @@
 ## Codeforces - Solution
-Thư mục này chứa solution của tất cả các bài mình đã giải ở Codeforces, chủ yếu là ở ProblemSet vì mình cũng ít khi sắp xếp được thời gian để tham gia mấy cái contest. Anyway nếu có bất cứ thắc mắc nào, feel free to contact me at [profile](https://nghoanglong.github.io/)
+Thư mục này chứa solution của tất cả các bài mình đã giải ở Codeforces, chủ yếu là ở ProblemSet vì mình cũng ít khi sắp xếp được thời gian để tham gia mấy cái contest. Anyway nếu có bất cứ thắc mắc nào, feel free to contact [profile](https://nghoanglong.github.io/)
 
 ## Hướng dẫn
 

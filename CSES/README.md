@@ -1,5 +1,5 @@
 ## CSES - Solution
-Thư mục này chứa solution của tất cả các bài mình đã giải ở CSES, chủ yếu là ở Problem Set vì mình cũng ít khi sắp xếp được thời gian để tham gia mấy cái contest. Anyway nếu có bất cứ thắc mắc nào, feel free to contact me at [profile](https://nghoanglong.github.io/)
+Thư mục này chứa solution của tất cả các bài mình đã giải ở CSES, chủ yếu là ở Problem Set vì mình cũng ít khi sắp xếp được thời gian để tham gia mấy cái contest. Anyway nếu có bất cứ thắc mắc nào, feel free to contact [profile](https://nghoanglong.github.io/)
 
 ## Hướng dẫn
 
@@ -20,3 +20,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 6. [1754 - Coin Piles](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1754.cpp) | [Problem Site](https://cses.fi/problemset/task/1754/)
 
 7. [1755 - Palindrome Reorder](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1755.cpp) | [Problem Site](https://cses.fi/problemset/task/1755/)
+
+8. [1071 - Number Spiral](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1071.cpp) | [Problem Site](https://cses.fi/problemset/task/1071/)

@@ -22,3 +22,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 7. [1755 - Palindrome Reorder](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1755.cpp) | [Problem Site](https://cses.fi/problemset/task/1755/)
 
 8. [1071 - Number Spiral](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1071.cpp) | [Problem Site](https://cses.fi/problemset/task/1071/)
+
+9. [1092 - Two Sets](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1092.cpp) | [Problem Site](https://cses.fi/problemset/task/1092/)

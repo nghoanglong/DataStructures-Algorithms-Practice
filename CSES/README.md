@@ -26,3 +26,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 9. [1092 - Two Sets](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1092.cpp) | [Problem Site](https://cses.fi/problemset/task/1092/)
 
 10. [1621 - Distinct Numbers](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1621.cpp) | [Problem Site](https://cses.fi/problemset/task/1621/)
+
+11. [1617 - Bit Strings](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1617.cpp) | [Problem Site](https://cses.fi/problemset/task/1617/)

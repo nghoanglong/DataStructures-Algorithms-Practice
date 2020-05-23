@@ -7,24 +7,24 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 
 ## Mục lục
 
-1. [1068 - Weird Algorithm](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1068.cpp) | [Problem Site](https://cses.fi/problemset/task/1068/)
+1. [1068 - Weird Algorithm](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1068.cpp) | [Problem Site](https://cses.fi/problemset/task/1068/)
 
-2. [1083 - Missing Number](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1083.cpp) | [Problem Site](https://cses.fi/problemset/task/1083/)
+2. [1083 - Missing Number](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1083.cpp) | [Problem Site](https://cses.fi/problemset/task/1083/)
 
-3. [1069 - Repetitions](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1069.cpp) | [Problem Site](https://cses.fi/problemset/task/1069/)
+3. [1069 - Repetitions](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1069.cpp) | [Problem Site](https://cses.fi/problemset/task/1069/)
 
-4. [1094 - Increasing Array](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1094.cpp) | [Problem Site](https://cses.fi/problemset/task/1094/)
+4. [1094 - Increasing Array](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1094.cpp) | [Problem Site](https://cses.fi/problemset/task/1094/)
 
-5. [1070 - Permutations](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1070.cpp) | [Problem Site](https://cses.fi/problemset/task/1070/)
+5. [1070 - Permutations](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1070.cpp) | [Problem Site](https://cses.fi/problemset/task/1070/)
 
-6. [1754 - Coin Piles](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1754.cpp) | [Problem Site](https://cses.fi/problemset/task/1754/)
+6. [1754 - Coin Piles](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1754.cpp) | [Problem Site](https://cses.fi/problemset/task/1754/)
 
-7. [1755 - Palindrome Reorder](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1755.cpp) | [Problem Site](https://cses.fi/problemset/task/1755/)
+7. [1755 - Palindrome Reorder](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1755.cpp) | [Problem Site](https://cses.fi/problemset/task/1755/)
 
-8. [1071 - Number Spiral](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1071.cpp) | [Problem Site](https://cses.fi/problemset/task/1071/)
+8. [1071 - Number Spiral](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1071.cpp) | [Problem Site](https://cses.fi/problemset/task/1071/)
 
-9. [1092 - Two Sets](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1092.cpp) | [Problem Site](https://cses.fi/problemset/task/1092/)
+9. [1092 - Two Sets](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1092.cpp) | [Problem Site](https://cses.fi/problemset/task/1092/)
 
-10. [1621 - Distinct Numbers](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1621.cpp) | [Problem Site](https://cses.fi/problemset/task/1621/)
+10. [1621 - Distinct Numbers](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1621.cpp) | [Problem Site](https://cses.fi/problemset/task/1621/)
 
-11. [1617 - Bit Strings](https://github.com/nghoanglong/Competitive-Programming/tree/master/CSES/1617.cpp) | [Problem Site](https://cses.fi/problemset/task/1617/)
+11. [1617 - Bit Strings](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1617.cpp) | [Problem Site](https://cses.fi/problemset/task/1617/)

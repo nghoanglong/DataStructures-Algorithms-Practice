@@ -15,5 +15,7 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 
 4. [402 - Remove K Digits - Medium](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/402.cpp) | [Problem Site](https://leetcode.com/problems/remove-k-digits/)
 
-5. [704 - Binary Search - Easy](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/704.cpp) | [Problem Site](https://leetcode.com/problems/binary-search/)
+5. [704 - Binary Search - Easy](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/704.cpp) | [Problem Site](https://leetcode.com/problems/binary-search/)    
+
+6. [338 - Counting Bits - Medium](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/338.cpp) | [Problem Site](https://leetcode.com/problems/counting-bits/)
 

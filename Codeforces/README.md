@@ -48,3 +48,9 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 20. [1335E1 - Three Blocks Palindrome (easy version)](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1335E1.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1335/E1)
 
 21. [1335E2 - Three Blocks Palindrome (hard version)](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1335E2.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1335/E2)
+
+22. [1360A - Minimal Square](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/A)
+
+23. [1360B - Honest Coach](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/B)
+
+24. [1360C - Similar Pairs](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360C.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/C)

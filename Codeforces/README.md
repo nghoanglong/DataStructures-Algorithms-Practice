@@ -54,3 +54,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 23. [1360B - Honest Coach](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/B)
 
 24. [1360C - Similar Pairs](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360C.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/C)
+
+25. [1360D - Buying Shovels](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360D.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/D)

@@ -19,3 +19,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 
 6. [338 - Counting Bits - Medium](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/338.cpp) | [Problem Site](https://leetcode.com/problems/counting-bits/)
 
+7. [21 - Merge Two Sorted Lists - Easy](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/21.cpp) | [Problem Site](https://leetcode.com/problems/merge-two-sorted-lists/)
+

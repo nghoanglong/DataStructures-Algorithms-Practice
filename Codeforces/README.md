@@ -56,3 +56,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 24. [1360C - Similar Pairs](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360C.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/C)
 
 25. [1360D - Buying Shovels](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360D.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/D)
+
+26. [1358A - Park Lighting](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1358A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1358/A)

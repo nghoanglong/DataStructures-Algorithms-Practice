@@ -21,3 +21,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 
 7. [21 - Merge Two Sorted Lists - Easy](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/21.cpp) | [Problem Site](https://leetcode.com/problems/merge-two-sorted-lists/)
 
+8. [416 -  Partition Equal Subset Sum - Medium](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/416.cpp) | [Problem Site](https://leetcode.com/problems/partition-equal-subset-sum/)
+

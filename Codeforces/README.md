@@ -58,3 +58,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 25. [1360D - Buying Shovels](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1360D.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1360/D)
 
 26. [1358A - Park Lighting](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1358A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1358/A)
+
+27. [1366A - Shovels and Swords](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1366A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1366/A)

@@ -30,3 +30,7 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 11. [1617 - Bit Strings](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1617.cpp) | [Problem Site](https://cses.fi/problemset/task/1617/)
 
 12. [1638 - Grid Paths](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1638.cpp) | [Problem Site](https://cses.fi/problemset/task/1638/)
+
+13. [1640 - Sum of Two Values](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1640.cpp) | [Problem Site](https://cses.fi/problemset/task/1640/)
+
+14. [1643 - Maximum Subarray Sum](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1643.cpp) | [Problem Site](https://cses.fi/problemset/task/1643/)

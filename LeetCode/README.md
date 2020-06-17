@@ -25,3 +25,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 
 9. [1 - Two Sum - Easy](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/1.cpp) | [Problem Site](https://leetcode.com/problems/two-sum/)
 
+10. [713 - Subarray Product Less Than K - Medium](https://github.com/nghoanglong/CP-Solutions/tree/master/LeetCode/713.cpp) | [Problem Site](https://leetcode.com/problems/subarray-product-less-than-k/)
+

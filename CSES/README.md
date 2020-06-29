@@ -34,3 +34,7 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 13. [1640 - Sum of Two Values](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1640.cpp) | [Problem Site](https://cses.fi/problemset/task/1640/)
 
 14. [1643 - Maximum Subarray Sum](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1643.cpp) | [Problem Site](https://cses.fi/problemset/task/1643/)
+
+15. [1084 - Apartments](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1084.cpp) | [Problem Site](https://cses.fi/problemset/task/1084/)
+
+16. [1090 - Ferris Wheel](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1090.cpp) | [Problem Site](https://cses.fi/problemset/task/1090/)

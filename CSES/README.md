@@ -38,3 +38,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 15. [1084 - Apartments](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1084.cpp) | [Problem Site](https://cses.fi/problemset/task/1084/)
 
 16. [1090 - Ferris Wheel](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1090.cpp) | [Problem Site](https://cses.fi/problemset/task/1090/)
+
+17. [1091 - Concert Tickets](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1091.cpp) | [Problem Site](https://cses.fi/problemset/task/1091/)

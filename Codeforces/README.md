@@ -60,3 +60,7 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 26. [1358A - Park Lighting](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1358A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1358/A)
 
 27. [1366A - Shovels and Swords](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1366A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1366/A)
+
+28. [1371A - Magical Sticks](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1371A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1371/A)
+
+29. [1371B - Magical Calendar](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1371B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1371/B)

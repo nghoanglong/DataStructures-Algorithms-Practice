@@ -40,3 +40,7 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 16. [1090 - Ferris Wheel](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1090.cpp) | [Problem Site](https://cses.fi/problemset/task/1090/)
 
 17. [1091 - Concert Tickets](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1091.cpp) | [Problem Site](https://cses.fi/problemset/task/1091/)
+
+18. [1619 - Restaurant Customers](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1619.cpp) | [Problem Site](https://cses.fi/problemset/task/1619/)
+
+19. [1623 - Apple Division](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1623.cpp) | [Problem Site](https://cses.fi/problemset/task/1623/)

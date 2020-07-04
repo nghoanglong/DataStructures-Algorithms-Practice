@@ -46,3 +46,7 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 19. [1623 - Apple Division](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1623.cpp) | [Problem Site](https://cses.fi/problemset/task/1623/)
 
 20. [1141 - Playlist](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1141.cpp) | [Problem Site](https://cses.fi/problemset/task/1141/)
+
+21. [1074 - Stick Lengths](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1074.cpp) | [Problem Site](https://cses.fi/problemset/task/1074/)
+
+22. [1629 - Movie Festival](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1629.cpp) | [Problem Site](https://cses.fi/problemset/task/1629/)

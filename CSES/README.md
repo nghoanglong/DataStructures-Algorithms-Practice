@@ -44,3 +44,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 18. [1619 - Restaurant Customers](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1619.cpp) | [Problem Site](https://cses.fi/problemset/task/1619/)
 
 19. [1623 - Apple Division](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1623.cpp) | [Problem Site](https://cses.fi/problemset/task/1623/)
+
+20. [1141 - Playlist](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1141.cpp) | [Problem Site](https://cses.fi/problemset/task/1141/)

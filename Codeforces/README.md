@@ -64,3 +64,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 28. [1371A - Magical Sticks](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1371A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1371/A)
 
 29. [1371B - Magical Calendar](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1371B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1371/B)
+
+30. [1371C - A Cookie for You](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1371C.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1371/C)

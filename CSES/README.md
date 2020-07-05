@@ -50,3 +50,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 21. [1074 - Stick Lengths](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1074.cpp) | [Problem Site](https://cses.fi/problemset/task/1074/)
 
 22. [1629 - Movie Festival](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1629.cpp) | [Problem Site](https://cses.fi/problemset/task/1629/)
+
+23. [1646 - Range Sum Queries I](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1646.cpp) | [Problem Site](https://cses.fi/problemset/task/1646/)

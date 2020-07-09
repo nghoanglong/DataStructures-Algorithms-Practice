@@ -58,3 +58,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 25. [1634 - Minimizing Coins](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1634.cpp) | [Problem Site](https://cses.fi/problemset/task/1634/)
 
 26. [1635 - Coin Combinations I](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1635.cpp) | [Problem Site](https://cses.fi/problemset/task/1635/)
+
+27. [1648 - Range Sum Queries II](https://github.com/nghoanglong/CP-Solutions/tree/master/CSES/1648.cpp) | [Problem Site](https://cses.fi/problemset/task/1648/)

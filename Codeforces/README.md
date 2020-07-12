@@ -66,3 +66,9 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 29. [1371B - Magical Calendar](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1371B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1371/B)
 
 30. [1371C - A Cookie for You](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1371C.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1371/C)
+
+31. [1372A - Omkar and Completion](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1372A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1372/A)
+
+32. [1372B - Omkar and Last Class of Math](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1372B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1372/B)
+
+33. [1372C - Omkar and Last Class of Math](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1372B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1372/B)

@@ -72,3 +72,5 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 32. [1372B - Omkar and Last Class of Math](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1372B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1372/B)
 
 33. [1372C - Omkar and Last Class of Math](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1372B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1372/B)
+
+34. [1385A - Three Pairwise Maximums](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1385A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1385/A)

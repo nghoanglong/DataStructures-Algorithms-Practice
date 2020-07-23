@@ -74,3 +74,7 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 33. [1372C - Omkar and Last Class of Math](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1372B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1372/B)
 
 34. [1385A - Three Pairwise Maximums](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1385A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1385/A)
+
+35. [1385B - Restore the Permutation by Merger](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1385B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1385/B)
+
+36. [1379A - Acacius and String](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1379A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1379/A)

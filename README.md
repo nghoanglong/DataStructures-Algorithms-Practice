@@ -1,11 +1,34 @@
-# ACM-ICPC Pratice
-Repo này chứa source code của tất cả các bài mình đã giải ở các trang contest khác nhau để chuẩn bị cho các Programming Competition như OLP, ACM-ICPC. Mình cũng có viết một repo dành riêng cho lý thuyết về cấu trúc dữ liệu và giải thuật, các bạn có thể tham khảo ở link này **->** [[DataStructures-and-Algorithms](https://github.com/nghoanglong/DataStrutures-and-Algorithms)].
+# Competitive Programming Practice
+Repository này mình dùng để lưu trữ source code của một số bài mình đã giải ở các trang contest khác nhau để chuẩn bị cho các Programming Competition như OLP, ACM-ICPC.  
 
-Programming language mình sử dụng là C++ vì nó là ngôn ngữ khởi đầu, dễ dàng cho việc đọc hiểu, phân tích cũng như dấn thân vào con đường thi đấu. Đây cũng chỉ là phần code, mình thật sự cũng không có nhiều thời gian để viết ý tưởng, nhưng mình sẽ cố gắng comment lại để giải thích nhiều nhất có thể, mong các bạn thông cảm.
+Bên cạnh đó mình cũng có viết hẳn một repository dành riêng cho lý thuyết, các bài ví dụ mẫu về Data Structures and Algorithms, mn có thể tham khảo ở đây: [Competitive Programming CheatSheet](https://github.com/nghoanglong/Competiitve-Programming-CheatSheet)
 
-Anyway nếu có bất cứ thắc mắc nào, feel free to contact, link contact: [profile](https://nghoanglong.github.io/)
+**Lưu ý và khuyến cáo:**
+- Mình chỉ lưu trữ source code, có vài bài sẽ có hẳn idea về hướng tiếp cận bài toán, nhưng thường thì không vì mình lười lắm :v
+- Nên tự tiếp cận bài toán trước, khoảng 30p nếu chưa thể làm được, mn có thể xem source
+- Mình sẽ cố gắng update nhiều bài nhất có thể, thật sự mình cũng không có nhiều thời gian vì còn phải học các môn trên trường, tìm hiểu những thứ khác
 
-## Các trang Contest
+Nhớ thả **Star** ở góc phải màn hình cho mình nha =)). Anyway nếu có bất cứ thắc mắc nào, feel free to contact.
+
+```
+Author: Ng Hoang Long
+University: Đại học Công nghệ Thông Tin - Đại học Quốc gia TP.HCM
+Programming language: C++, Python
+Email: nghoanglong.17december@gmail.com
+LinkedIn: https://www.linkedin.com/in/nghoanglong
+Facebook: https://www.facebook.com/nghoanglong.17dec
+```
+
+## Mục lục
+
+- [Codeforces](https://github.com/nghoanglong/Competitive-Programming-Practice/tree/master/Codeforces)
+- [CSES](https://github.com/nghoanglong/Competitive-Programming-Practice/tree/master/CSES)
+- [Hackerrank](https://github.com/nghoanglong/Competitive-Programming-Practice/tree/master/Hackerrank)
+- [LeetCode](https://github.com/nghoanglong/Competitive-Programming-Practice/tree/master/LeetCode)
+- [AtCoder](https://github.com/nghoanglong/Competitive-Programming-Practice/tree/master/Atcoder)
+- [UIT - Contest](https://github.com/nghoanglong/Competitive-Programming-Practice/tree/master/UIT-Contest)
+
+## Các nguồn bài tập
 
   - [Codeforces](https://codeforces.com/)
   - [AtCoder](https://atcoder.jp/contests/)

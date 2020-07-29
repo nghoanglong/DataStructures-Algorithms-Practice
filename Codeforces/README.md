@@ -78,3 +78,13 @@ Thư mục này chứa solution của tất cả các bài mình đã giải ở
 35. [1385B - Restore the Permutation by Merger](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1385B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1385/B)
 
 36. [1379A - Acacius and String](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/1379A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/1379/A)
+
+37. [242B - Big Segment](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/242B.cpp) | [Problem Site](https://codeforces.com/problemset/problem/242/B)
+
+38. [572A - Arrays](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/572A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/572/A)
+
+39. [673A - Bear and Game](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/673A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/673/A)
+
+40. [691A - Fashion in Berland](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/691A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/691/A)
+
+41. [731A - Night at the Museum](https://github.com/nghoanglong/CP-Solutions/tree/master/Codeforces/731A.cpp) | [Problem Site](https://codeforces.com/problemset/problem/731/A)

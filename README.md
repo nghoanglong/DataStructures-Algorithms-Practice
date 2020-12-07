@@ -1,8 +1,6 @@
 # Competitive Programming Practice
 Repository này mình dùng để lưu trữ source code của một số bài mình đã giải ở các trang contest khác nhau để chuẩn bị cho các Programming Competition như OLP, ACM-ICPC.  
 
-Bên cạnh đó mình cũng có viết hẳn một repository dành riêng cho lý thuyết, các bài ví dụ mẫu về Data Structures and Algorithms, mn có thể tham khảo ở đây: [Competitive Programming CheatSheet](https://github.com/nghoanglong/Competiitve-Programming-CheatSheet)
-
 **Lưu ý và khuyến cáo:**
 - Mình chỉ lưu trữ source code, có vài bài sẽ có hẳn idea về hướng tiếp cận bài toán, nhưng thường thì không vì mình lười lắm :v
 - Nên tự tiếp cận bài toán trước, khoảng 30p nếu chưa thể làm được, mn có thể xem source

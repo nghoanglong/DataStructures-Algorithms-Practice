@@ -10,10 +10,8 @@ Nhớ thả **Star** ở góc phải màn hình cho mình nha =)). Anyway nếu 
 
 ```
 Author: Ng Hoang Long
-University: Đại học Công nghệ Thông Tin - Đại học Quốc gia TP.HCM
 Programming language: C++, Python
 Email: nghoanglong.17december@gmail.com
-LinkedIn: https://www.linkedin.com/in/nghoanglong
 Facebook: https://www.facebook.com/nghoanglong.17dec
 ```
 

@@ -3,7 +3,7 @@ Repository này mình dùng để lưu trữ source code của một số bài m
 
 **Lưu ý và khuyến cáo:**
 - Mình chỉ lưu trữ source code, có vài bài sẽ có hẳn idea về hướng tiếp cận bài toán, nhưng thường thì không vì mình lười lắm
-- Nên tự tiếp cận bài toán trước, khoảng 30p nếu chưa thể làm được, bạn có thể xem source
+- Nên tự tiếp cận bài toán trước
 - Mình sẽ cố gắng update nhiều bài nhất có thể, thật sự mình cũng không có nhiều thời gian
 
 Anyway nếu có bất cứ thắc mắc nào, feel free to contact.

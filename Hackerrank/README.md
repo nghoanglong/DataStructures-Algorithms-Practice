@@ -1,9 +1,4 @@
-## Hackerrank - Solution
-Thư mục này chứa solution của tất cả các bài mình đã giải ở Hackerrank, chủ yếu là ở Problem Solving. Anyway nếu có bất cứ thắc mắc nào, feel free to contact me at [profile](https://nghoanglong.github.io/)
-
-## Hướng dẫn
-
-Để đỡ mất công scroll chuột tìm solution, sử dụng tổ hợp phím **Ctrl + F** để tìm solution cho bài mong muốn, copy đúng tên bài rồi dán vào thanh tìm kiếm là được
+# Hackerrank - Solution
 
 ## Mục lục
 

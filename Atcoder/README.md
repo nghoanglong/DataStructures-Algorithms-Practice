@@ -1,9 +1,4 @@
-## AtCoder - Solution
-Thư mục này chứa solution của tất cả các contest mà mình đã tham gia ở AtCoder vì hình như AtCoder không có chỗ luyện bài tập, mình không chắc. AtCoder các contest chủ yếu ở mức độ Beginner, các bài D E F trở lên có thể ngang với div2 Codeforces, contest ở AtCoder phù hợp với những bạn mới bắt đầu. Anyway nếu có bất cứ thắc mắc nào, feel free to contact [profile](https://nghoanglong.github.io/)
-
-## Hướng dẫn
-
-Để đỡ mất công scroll chuột tìm solution, sử dụng tổ hợp phím **Ctrl + F** để tìm solution cho contest mong muốn, định dạng tìm kiếm là tên của contest.
+# AtCoder - Solution
 
 ## Mục lục 
 

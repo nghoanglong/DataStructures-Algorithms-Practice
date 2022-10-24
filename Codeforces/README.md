@@ -1,9 +1,4 @@
-## Codeforces - Solution
-Thư mục này chứa solution của tất cả các bài mình đã giải ở Codeforces, chủ yếu là ở ProblemSet vì mình cũng ít khi sắp xếp được thời gian để tham gia mấy cái contest. Anyway nếu có bất cứ thắc mắc nào, feel free to contact [profile](https://nghoanglong.github.io/)
-
-## Hướng dẫn
-
-Để đỡ mất công scroll chuột tìm solution, sử dụng tổ hợp phím **Ctrl + F** để tìm solution cho bài mong muốn, có thể tìm bằng ID của bài đó(lấy trên ProblemSet) hoặc dùng tên của bài cần tìm (Ex: 706B hoặc Interesting drink), đối với các bài ở VNOI thì tìm theo định dạng **VNOI - thể loại(ACM, OI) - set thứ mấy - tên bài** (Ex: VNOI - acm - set 02 - Lập lịch sửa chữa ô tô).
+# Codeforces - Solution
 
 ## Mục lục
 
